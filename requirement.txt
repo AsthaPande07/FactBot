@@ -1,5 +1,9 @@
 
-pip install numpy pandas scikit-learn nltk spacy
+pip install numpy 
+pip install pandas 
+pip install scikit-learn
+pip install nltk 
+pip install spacy
 pip install scipy pickle-mixin
 pip install spacy
 python -m spacy download en_core_web_sm
